@@ -56,7 +56,7 @@ it can remove player on the rank.
 
 ---
 
-# flowchart
+# Flowchart
 
 [![](https://i.imgur.com/m2kXCPs.png)](https://drive.google.com/file/d/1Cc4vVd9R3AKB2EQQL_FKnsKlNlRbn-ZE/view?usp=sharing)
 
