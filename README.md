@@ -16,54 +16,54 @@
 ----
 
 ## main menu
-there is five options,when you start the game,it can recorde the score to rank.
+there are five options, when you start the game, it will record scores on the rank.
 
 ![](https://i.imgur.com/1HexE2v.png)
 
 ----
 
-## Vedio - click "start"
+## Video - clicking "start"
 https://www.youtube.com/embed/GVaDmcT_3os
 
 ----
 
-## Rank system
-it can remove player on the rank.
+## Ranking system
+Players can be removed on the rank.
 ![](https://i.imgur.com/xNf20K1.png)
 
 
 ----
 
-# Other detail
-* all data is save permanently,even if you have closed cmd.
-* if you input a name repeatedly,it will choose the highest score for record.
-* fool-proof design
+# Other details
+* all data is saved permanently, even after you close cmd.
+* you can login by entering duplicated name on the rank, the highest score will be recorded.
+* fool-proof design (error handling system)
 ---
 
 # Important technique
 
 
-1. Using header file(s) to manage project and common code efficiently.
-2. Using **Multi-Threading** run `Sleep`and`GetAsynckeys` imultaneously
-3. Using API interact with consloe (Windows Only!)
-4. Colerful display (Windows Only!)
-5. Using file system to manage player's infornmation and question
+1. Using header file(s) to manage project and common codes efficiently.
+2. Using **Multi-Threading** run `Sleep`and`GetAsynckeys` simultaneously
+3. Using API interacting with the consloe (windows.h)
+4. Colerful display (windows.h)
+5. Using file system to manage player's infornmation and the questions source table
 6. Incredible rank and answer system
-7. Various and funny questions
-8. Veautiful typesetting and animation
-9. Icon and bgm
+7. Various & funny questions
+8. Beautiful typesetting and animation
+9. Icon and BGM
 
 
 ---
 
-# Flowchart
+# flowchart
 
 [![](https://i.imgur.com/m2kXCPs.png)](https://drive.google.com/file/d/1Cc4vVd9R3AKB2EQQL_FKnsKlNlRbn-ZE/view?usp=sharing)
 
 ---
 
 # Producer
-* [d0gkiller87](https://github.com/vungsung)
+* d0gkiller 
 * cookie_king (me)
 * JYUN-YI
 * KANG-WEI
