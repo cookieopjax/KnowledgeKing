@@ -63,7 +63,7 @@ it can remove player on the rank.
 ---
 
 # Producer
-* d0gkiller 
+* [d0gkiller87](https://github.com/vungsung)
 * cookie_king (me)
 * JYUN-YI
 * KANG-WEI
