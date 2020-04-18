@@ -22,7 +22,7 @@ there is five options,when you start the game,it can recorde the score to rank.
 
 ----
 
-## Take an example - click "start"
+## Vedio - click "start"
 https://www.youtube.com/embed/GVaDmcT_3os
 
 ----
