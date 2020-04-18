@@ -44,7 +44,7 @@ it can remove player on the rank.
 
 
 1. Using header file(s) to manage project and common code efficiently.
-2. Using **Multi-Threading** run `Sleep`and`GetAsynckeys` ㄋimultaneously
+2. Using **Multi-Threading** run `Sleep`and`GetAsynckeys` imultaneously
 3. Using API interact with consloe (Windows Only!)
 4. Colerful display (Windows Only!)
 5. Using file system to manage player's infornmation and question
