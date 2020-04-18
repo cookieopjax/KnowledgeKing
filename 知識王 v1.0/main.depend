@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1577957138 source:c:\users\vung\desktop\hack_job\p-c\proj-old\icon.rc
+
+1577957657 source:c:\users\vung\desktop\hack_job\p-c\proj-old\libs\dogkiller.c
+	<stdio.h>
+	<windows.h>
+	<pthread.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"dogkiller.h"
+	"feature.h"
+
+1577957575 c:\users\vung\desktop\hack_job\p-c\proj-old\libs\dogkiller.h
+	<windows.h>
+
+1577873564 c:\users\vung\desktop\hack_job\p-c\proj-old\libs\feature.h
+
+1577956111 source:c:\users\vung\desktop\hack_job\p-c\proj-old\libs\feature.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"feature.h"
+	"dogkiller.h"
+
+1577957607 source:c:\users\vung\desktop\hack_job\p-c\proj-old\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<sys/stat.h>
+	"libs\dogkiller.h"
+	"libs\feature.h"
+
+1577957138 source:c:\users\vung\desktop\hack_job\p-c\ª¾ÃÑ¤ý v0.1\icon.rc
+
+1577956111 source:c:\users\vung\desktop\hack_job\p-c\ª¾ÃÑ¤ý v0.1\libs\feature.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"feature.h"
+	"dogkiller.h"
+
+1577873564 c:\users\vung\desktop\hack_job\p-c\ª¾ÃÑ¤ý v0.1\libs\feature.h
+
+1577957575 c:\users\vung\desktop\hack_job\p-c\ª¾ÃÑ¤ý v0.1\libs\dogkiller.h
+	<windows.h>
+
+1577970969 source:c:\users\vung\desktop\hack_job\p-c\ª¾ÃÑ¤ý v0.1\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<sys/stat.h>
+	"libs\dogkiller.h"
+	"libs\feature.h"
+
+1577970763 source:c:\users\vung\desktop\hack_job\p-c\ª¾ÃÑ¤ý v0.1\libs\dogkiller.c
+	<stdio.h>
+	<windows.h>
+	<pthread.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"dogkiller.h"
+	"feature.h"
+
