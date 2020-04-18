@@ -34,7 +34,7 @@ it can remove player on the rank.
 
 ----
 
-## Other detail
+# Other detail
 * all data is save permanently,even if you have closed cmd.
 * if you input a name repeatedly,it will choose the highest score for record.
 * fool-proof design
@@ -44,14 +44,14 @@ it can remove player on the rank.
 
 
 1. Using header file(s) to manage project and common code efficiently.
-2. Using **Multi-Threading** run `Sleep`and`GetAsynckeys` Simultaneously
-3. using API interact with consloe (Windows Only!)
-4. colerful display (Windows Only!)
-5. using file system to manage player's infornmation and question
-6. incredible rank and answer system
-7. various and funny questions
-8. beautiful typesetting and animation
-9. icon and bgm
+2. Using **Multi-Threading** run `Sleep`and`GetAsynckeys` ㄋimultaneously
+3. Using API interact with consloe (Windows Only!)
+4. Colerful display (Windows Only!)
+5. Using file system to manage player's infornmation and question
+6. Incredible rank and answer system
+7. Various and funny questions
+8. Veautiful typesetting and animation
+9. Icon and bgm
 
 
 ---
